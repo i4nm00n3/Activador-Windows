@@ -1,5 +1,4 @@
 # Activador-Windows
-<p>Español</p>
 Activador Windows 11 y 10 (cmd)
 
 <p>a_w_c Es un activador de windows 10 y 11</p> 
