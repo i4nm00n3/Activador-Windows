@@ -1,8 +1,8 @@
 # Activador-Windows
 Activador Windows 11 y 10 (cmd)
 
-a_w_c Es un activador de windows 10 y 11 
-Su modo de empleo es ejecutarlos en modo administrador, seleccionar en el menú la versión de windows que tenemos y esperar a que termine la activación.
+<p>a_w_c Es un activador de windows 10 y 11</p> 
+<p>Su modo de empleo es ejecutarlos en modo administrador, seleccionar en el menú la versión de windows que tenemos y esperar a que termine la activación.</p>
  AVISO: Algunas versiones están tienen dos opciones, esto se debe a que una de las dos es versión core.
         Si falla la activación se debe a que se ha seleccionado la versión core, seleccionar otra opción.
 
