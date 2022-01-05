@@ -1,4 +1,5 @@
 # Activador-Windows
+<p>Español</p>
 Activador Windows 11 y 10 (cmd)
 
 <p>a_w_c Es un activador de windows 10 y 11</p> 
@@ -8,3 +9,7 @@ Activador Windows 11 y 10 (cmd)
 <br></br>
 <p>Si te gusta considera invitarme a un café:</p>
 <p>litecoin: M9pHAkcxzG8HsrkX7qa34YgsJnvqbTE5CM</p>
+
+<p>English</p>
+Windows 11 and 10 Activator (cmd)
+a_b_c It is an activator of windows 10 and 11
