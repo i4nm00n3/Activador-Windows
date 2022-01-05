@@ -7,6 +7,8 @@ Activador Windows 11 y 10 (cmd)
  AVISO: Algunas versiones están tienen dos opciones, esto se debe a que una de las dos es versión core.
         Si falla la activación se debe a que se ha seleccionado la versión core, seleccionar otra opción.
 <br></br>
+
+https://www.youtube.com/watch?v=b1NCWQ6xWC8
+
 <p>Si te gusta considera invitarme a un café:</p>
 <p>litecoin: M9pHAkcxzG8HsrkX7qa34YgsJnvqbTE5CM</p>
-
